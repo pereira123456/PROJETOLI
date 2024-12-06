@@ -6,17 +6,7 @@
       "foto": "https://images.megahits.pt/tony11678c2b_vertical.jpg",
       "biografia": "Tony Carreira, nascido a 30 de dezembro de 1963, é um cantor português conhecido pelas suas canções de amor.",
       "discografia": {
-        
-        ]
-      }
-    },
-    {
-      "id": 2,
-      "nome": "Toy",
-      "foto": "https://www.tv7dias.pt/wp-content/uploads/2022/09/Cópia-de-imagem-quadrada.jpg",
-      "biografia": "Toy, nascido a 10 de fevereiro de 1963, é um cantor português de música popular e romântica.",
-      "discografia": {
-       "albuns": [
+         "albuns": [
           "Não vou deixar de te amar (1991)",
           "Boca Marota (1992)",
           "Ai Destino (1995)",
@@ -43,6 +33,21 @@
           "Sem Ti Eu Não Sei viver (2017)",
           "Estou Aqui (2019)",
           "Sempre (2021)",
+        
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Toy",
+      "foto": "https://www.tv7dias.pt/wp-content/uploads/2022/09/Cópia-de-imagem-quadrada.jpg",
+      "biografia": "Toy, nascido a 10 de fevereiro de 1963, é um cantor português de música popular e romântica.",
+      "discografia": {
+       "albuns": [
+          
+        ],
+        "singles": [
+         
         ]
       }
     },

@@ -1,4 +1,4 @@
-/* Estilos básicos para centralizar */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -11,12 +11,12 @@ body {
     background-color: #94bdbd;
 }
 
-/* Centralizar dropdown */
+
 .dropdown {
     position: relative;
 }
 
-/* Estilo do botão */
+
 .dropdown-button {
     padding: 10px 20px;
     background-color: #007bff;
@@ -63,7 +63,22 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Exibir o menu quando hover no dropdown */
+
 .dropdown:hover .dropdown-menu {
     display: block;
+}
+
+#artista-info {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+}
+#artista-info img {
+    margin-bottom: 15px;
+    max-width: 100%;
+    border-radius: 8px;
 }

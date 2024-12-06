@@ -6,19 +6,7 @@
       "foto": "https://images.megahits.pt/tony11678c2b_vertical.jpg",
       "biografia": "Tony Carreira, nascido a 30 de dezembro de 1963, é um cantor português conhecido pelas suas canções de amor.",
       "discografia": {
-        "albuns": [
-          "É Verão em Portugal (1989)",
-          "A Vida Que Eu Escolhi (1998)",
-          "Sempre (2006)",
-          "O Homem Que Sou (2008)",
-          "Recomeçar (2021)"
-        ],
-        "singles": [
-          "Sonhos de Menino (1997)",
-          "Porque é que Vens (2001)",
-          "Esta Falta de Ti (2008)",
-          "E Agora? (2013)",
-          "Se Estou Louco (2020)"
+        
         ]
       }
     },
@@ -28,18 +16,33 @@
       "foto": "https://www.tv7dias.pt/wp-content/uploads/2022/09/Cópia-de-imagem-quadrada.jpg",
       "biografia": "Toy, nascido a 10 de fevereiro de 1963, é um cantor português de música popular e romântica.",
       "discografia": {
-        "albuns": [
-          "Coração Não Tem Idade (1992)",
-          "Pó de Guaraná (1996)",
-          "Viver a Vida (2015)",
-          "Chama o António (2018)"
+       "albuns": [
+          "Não vou deixar de te amar (1991)",
+          "Boca Marota (1992)",
+          "Ai Destino (1995)",
+          "Adeus até um dia (1996)",
+          "Coração perdido (1997)",
+          "Sonhador Snhador (1998)",
+          "Dois Corações (1999)",
+          "Português de alma (2000)",
+          "Adeus Amigo (2000)",
+          "Cantor de Sonhos (2001)",
+          "Vagabundo por Amor (2004)",
+          "O Homem que Sou (2008)",
+          "O Mesmo de Sempre (2010)",
+          "Essencial (2012)",
+          "Nos Fiançailles Frace/Portugal (2013)",
+          "Mon Fado (2013)",
+          "cosas del Amor (2018)",
+          "Recomeçar (2021)",
+
+
         ],
         "singles": [
-          "Mulher Latina (1988)",
-          "Aguenta-te com Esta (1994)",
-          "Sensual (2000)",
-          "És Tão Sensual (2008)",
-          "Toda a Noite (2022)"
+          "Eu Esqueci de Esquecer-te (2016)",
+          "Sem Ti Eu Não Sei viver (2017)",
+          "Estou Aqui (2019)",
+          "Sempre (2021)",
         ]
       }
     },

@@ -3,8 +3,8 @@
     {
       "id": 1,
       "nome": "Tony Carreira",
-      "foto": "https://exemplo.com/tony.jpg",
-      "biografia": "Tony Carreira, nascido em 30 de dezembro de 1963, é um cantor português famoso por suas baladas românticas.",
+      "foto": "https://images.megahits.pt/tony11678c2b_vertical.jpg",
+      "biografia": "Tony Carreira, nascido a 30 de dezembro de 1963, é um cantor português conhecido pelas suas canções de amor.",
       "discografia": {
         "albuns": [
           "É Verão em Portugal (1989)",
@@ -25,8 +25,8 @@
     {
       "id": 2,
       "nome": "Toy",
-      "foto": "https://exemplo.com/toy.jpg",
-      "biografia": "Toy, nascido em 1 de fevereiro de 1963, é um cantor português de música popular e romântica.",
+      "foto": "https://www.tv7dias.pt/wp-content/uploads/2022/09/Cópia-de-imagem-quadrada.jpg",
+      "biografia": "Toy, nascido a 10 de fevereiro de 1963, é um cantor português de música popular e romântica.",
       "discografia": {
         "albuns": [
           "Coração Não Tem Idade (1992)",
@@ -46,8 +46,8 @@
     {
       "id": 3,
       "nome": "Quim Barreiros",
-      "foto": "https://exemplo.com/quim.jpg",
-      "biografia": "Quim Barreiros, nascido em 19 de junho de 1947, é um músico português conhecido por suas músicas humorísticas.",
+      "foto": "https://i.scdn.co/image/ab6761610000e5eb738e7fb70b541f71a1342883",
+      "biografia": "Quim Barreiros, nascido a 19 de junho de 1947, é um músico português conhecido pelas suas músicas humorísticas.",
       "discografia": {
         "albuns": [
           "O Malhão (1971)",

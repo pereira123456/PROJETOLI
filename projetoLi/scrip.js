@@ -16,8 +16,13 @@ document.addEventListener("DOMContentLoaded", () => {
                         <img src="${artista.foto}" alt="${artista.nome}">
                         <p><strong>Biografia:</strong> ${artista.biografia}</p>
                         <h3>Discografia:</h3>
+                        <h4>Álbuns:</h4>
                         <ul>
-                            ${artista.discografia.map(album => `<li>${album}</li>`).join('')}
+                            ${artista.discografia.albuns.map(album => `<li>${album}</li>`).join('')}
+                        </ul>
+                        <h4>Singles:</h4>
+                        <ul>
+                            ${artista.discografia.singles.map(single => `<li>${single}</li>`).join('')}
                         </ul>
                     `;
                 })

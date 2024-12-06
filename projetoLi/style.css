@@ -1,4 +1,4 @@
-/* Define estilos básicos para o body */
+/* Estilos básicos para centralizar */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -8,38 +8,16 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #94bdbd;
 }
 
-/* Centraliza o formulário */
-form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background: #ffffff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+/* Centralizar dropdown */
+.dropdown {
+    position: relative;
 }
 
-/* Estiliza o rótulo */
-label {
-    margin-bottom: 10px;
-    font-weight: bold;
-}
-
-/* Estiliza o campo de entrada */
-input[type="text"] {
-    padding: 10px;
-    width: 300px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    margin-bottom: 20px;
-    font-size: 16px;
-}
-
-/* Estiliza o botão */
-button {
+/* Estilo do botão */
+.dropdown-button {
     padding: 10px 20px;
     background-color: #007bff;
     color: white;
@@ -50,13 +28,42 @@ button {
     transition: background-color 0.3s;
 }
 
-button:hover {
+.dropdown-button:hover {
     background-color: #0056b3;
 }
 
-/* Centraliza o texto no rodapé */
-footer {
-    margin-top: 20px;
-    text-align: center;
-    color: #555;
+
+.dropdown-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: none;
+    z-index: 1000;
+}
+
+
+.dropdown-menu li {
+    padding: 10px 20px;
+}
+
+.dropdown-menu li a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+}
+
+.dropdown-menu li:hover {
+    background-color: #f4f4f4;
+}
+
+/* Exibir o menu quando hover no dropdown */
+.dropdown:hover .dropdown-menu {
+    display: block;
 }

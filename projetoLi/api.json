@@ -1,8 +1,69 @@
-asdadsadasfasaf
-as
-fa
-f
-as
-fas
-fs
-a
+{
+  "artistas": [
+    {
+      "id": 1,
+      "nome": "Tony Carreira",
+      "foto": "https://exemplo.com/tony.jpg",
+      "biografia": "Tony Carreira, nascido em 30 de dezembro de 1963, é um cantor português famoso por suas baladas românticas.",
+      "discografia": {
+        "albuns": [
+          "É Verão em Portugal (1989)",
+          "A Vida Que Eu Escolhi (1998)",
+          "Sempre (2006)",
+          "O Homem Que Sou (2008)",
+          "Recomeçar (2021)"
+        ],
+        "singles": [
+          "Sonhos de Menino (1997)",
+          "Porque é que Vens (2001)",
+          "Esta Falta de Ti (2008)",
+          "E Agora? (2013)",
+          "Se Estou Louco (2020)"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Toy",
+      "foto": "https://exemplo.com/toy.jpg",
+      "biografia": "Toy, nascido em 1 de fevereiro de 1963, é um cantor português de música popular e romântica.",
+      "discografia": {
+        "albuns": [
+          "Coração Não Tem Idade (1992)",
+          "Pó de Guaraná (1996)",
+          "Viver a Vida (2015)",
+          "Chama o António (2018)"
+        ],
+        "singles": [
+          "Mulher Latina (1988)",
+          "Aguenta-te com Esta (1994)",
+          "Sensual (2000)",
+          "És Tão Sensual (2008)",
+          "Toda a Noite (2022)"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Quim Barreiros",
+      "foto": "https://exemplo.com/quim.jpg",
+      "biografia": "Quim Barreiros, nascido em 19 de junho de 1947, é um músico português conhecido por suas músicas humorísticas.",
+      "discografia": {
+        "albuns": [
+          "O Malhão (1971)",
+          "Bacalhau à Portuguesa (1986)",
+          "A Cabritinha (1996)",
+          "A Garagem da Vizinha (2001)",
+          "Quim Barreiros: 50 Anos de Carreira (2020)"
+        ],
+        "singles": [
+          "O Sorveteiro (1975)",
+          "Dar ao Apito (2007)",
+          "A Padaria (2013)",
+          "O Tacho da Sogra (2018)",
+          "O Bife da Vaca (2021)"
+        ]
+      }
+    }
+  ]
+}
